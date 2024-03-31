@@ -1,0 +1,5 @@
+D:\microsof_visual_studio_2008_Assigment\Data_Type_boolean.cs\Data_Type_boolean.cs\obj\Debug\ResolveAssemblyReference.cache
+D:\microsof_visual_studio_2008_Assigment\Data_Type_boolean.cs\Data_Type_boolean.cs\bin\Debug\Data_Type_boolean.cs.exe
+D:\microsof_visual_studio_2008_Assigment\Data_Type_boolean.cs\Data_Type_boolean.cs\bin\Debug\Data_Type_boolean.cs.pdb
+D:\microsof_visual_studio_2008_Assigment\Data_Type_boolean.cs\Data_Type_boolean.cs\obj\Debug\Data_Type_boolean.cs.exe
+D:\microsof_visual_studio_2008_Assigment\Data_Type_boolean.cs\Data_Type_boolean.cs\obj\Debug\Data_Type_boolean.cs.pdb
