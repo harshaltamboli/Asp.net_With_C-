@@ -1,0 +1,5 @@
+D:\microsof_visual_studio_2008_Assigment\Arithmatic_operator.cs\Arithmatic_operator.cs\bin\Debug\Arithmatic_operator.cs.exe
+D:\microsof_visual_studio_2008_Assigment\Arithmatic_operator.cs\Arithmatic_operator.cs\bin\Debug\Arithmatic_operator.cs.pdb
+D:\microsof_visual_studio_2008_Assigment\Arithmatic_operator.cs\Arithmatic_operator.cs\obj\Debug\ResolveAssemblyReference.cache
+D:\microsof_visual_studio_2008_Assigment\Arithmatic_operator.cs\Arithmatic_operator.cs\obj\Debug\Arithmatic_operator.cs.exe
+D:\microsof_visual_studio_2008_Assigment\Arithmatic_operator.cs\Arithmatic_operator.cs\obj\Debug\Arithmatic_operator.cs.pdb
